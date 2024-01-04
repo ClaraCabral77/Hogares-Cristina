@@ -252,6 +252,7 @@ ul{
     display: inline-block;
     padding: 35px;
     background: #ddd;
+    
 }
 .service-details h4 {
     font-size: 18px;
@@ -935,3 +936,6 @@ padding-left: 15px;
     margin-top: 15px;
 }
 
+#razonS{
+    margin-left: 20px;
+}
