@@ -224,6 +224,10 @@ License URI: http://www.themevault.net/license/
     #uso{
         margin-top: -90px;
     }
+    #hog6{
+        padding-top: 20px;
+        margin-top: 20px;
+    }
 
   
 }
@@ -258,6 +262,11 @@ License URI: http://www.themevault.net/license/
         padding-top: 20px;
         margin-top: 20px;
     }
+#hog6{
+    padding-top: 20px;
+    margin-top: 20px;
+}
+ 
 }
 
 @media (min-width: 480px) and (max-width: 767px) {
@@ -266,6 +275,10 @@ License URI: http://www.themevault.net/license/
     }
 
     #hog11{
+        padding-top: 20px;
+        margin-top: 20px;
+    }
+    #hog6{
         padding-top: 20px;
         margin-top: 20px;
     }
