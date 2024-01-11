@@ -158,10 +158,9 @@ ul{
 }
 #myCarousel1 .carousel-caption h1 {
     color: #fff;
-    font-family: "exotc350_dmbd_btdemi-bold";
+  
     font-size: 85px;
     letter-spacing: 2px;
-
     text-transform: capitalize;
 }
 
