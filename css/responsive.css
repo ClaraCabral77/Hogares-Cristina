@@ -97,8 +97,12 @@ License URI: http://www.themevault.net/license/
     }
     #myCarousel1 .carousel-inner img{
         height: 280px !important;
-        
+   
  
+    }
+    #basta{
+        width: 20%;
+        height: 100px;
     }
     #myCarousel1 .carousel-caption h1{
         font-size: 40px;
@@ -269,6 +273,7 @@ License URI: http://www.themevault.net/license/
     margin-top: 20px;
 }
 
+
 }
 
 @media (min-width: 480px) and (max-width: 767px) {
@@ -284,7 +289,7 @@ License URI: http://www.themevault.net/license/
         padding-top: 20px;
         margin-top: 20px;
     }
-
+   
 }
 
 
